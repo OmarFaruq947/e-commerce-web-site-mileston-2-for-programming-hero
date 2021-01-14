@@ -1,0 +1,128 @@
+body{
+    font-family: 'Dosis', sans-serif;
+}
+/*navber start*/
+.logo{
+    margin-left: 100px;
+}
+.vavber_items{
+    margin-right: 100px;
+}
+.custom_navber{
+    background-color:#FFFBF0 ;  
+    border: none;
+}
+/*navber end*/
+
+
+/*heder section start*/
+.top_section{
+    background-color: #FFFBF0;
+    height: 750px;
+    border: none;
+}
+.top_image{
+    width: 440.72px;
+    margin-top: 200px;
+    margin-left: 155px;
+   
+}
+.title_text{
+    color: #FABE4C;
+    font-size: 80px;
+    font-weight: bold;
+    
+}
+.title_and_text{
+    padding-left: 100px;
+}
+.title_text_second_part{
+    color:#363958;
+}
+.description_down_title{
+    color:#3E3E3E ;
+}
+.shopping_curt_icon{
+    width: 24px;
+    height: 24px;
+}
+.buy_now_btn_color{
+    background-color: #6730E8;
+}
+/*heder section end*/
+
+
+/* W0Man Jacket section start */
+.section_heding{
+    margin-top: 100px;
+    margin-left: 140px;
+}
+.W0Man_Jacket_size{
+    width: 293px;
+    height: 293px;
+}
+.card_customize{
+    height:472px;
+    border: none;
+}
+.thard_card_footer{
+    margin-top: -48px;
+}
+.card_button_position{
+    margin-left: 121px;
+}
+.card_botom{
+    border: none;
+    background-color:white;
+}
+.Price{
+    color: #FABE4C;
+}
+/* W0Man Jacket section end */
+#footer-line{
+    color:#FFFBF0;
+}
+.buy_polici{
+    margin-top: 150px;
+}
+.big_image{
+     width: 599px;
+    height: 354.07px;
+} 
+
+.buy_polici_icon{
+    width: 78px;
+    height: 82px;
+}
+.buy_polici_text{
+    padding-left: 5px;
+}
+
+/*footer section start*/
+.footer{
+    background-color: #6730E8;
+    height: 450px;
+    margin-top: 150px;
+    
+}
+.fotter_logo{
+    width: 300px;
+    height: 53px;
+    margin-top: 30px;
+}
+.fotter_text_color{
+    color: white;
+}
+.all_fotter_list,li,a{
+    text-decoration: none;
+    color: lightgray;
+}
+.all_fotter_list,li,a:hover{
+    color:white;
+
+}
+.fotter_links_rows{
+    margin-top: 70px;
+}
+
+/*footer section end*/
